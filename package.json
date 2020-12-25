@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andresfmj/platzi-food-workshop-tailwind.git"
+    "url": "git+https://github.com/andresfmj/tailwind-workshop.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andresfmj/platzi-food-workshop-tailwind/issues"
+    "url": "https://github.com/andresfmj/tailwind-workshop.git/issues"
   },
-  "homepage": "https://github.com/andresfmj/platzi-food-workshop-tailwind#readme",
+  "homepage": "https://github.com/andresfmj/tailwind-workshop.git#readme",
   "dependencies": {
     "autoprefixer": "^10.1.0",
     "postcss-cli": "^8.3.1",
